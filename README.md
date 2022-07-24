@@ -1,6 +1,6 @@
 # music_player
 
-A new Flutter project.
+A Themed flutter music player with its own assets and images.
 
 ## Getting Started
 
