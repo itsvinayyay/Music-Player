@@ -5,12 +5,9 @@ A Themed flutter music player with its own assets and images.
 ## Getting Started
 
 This project is entirely made for experimental purpose for a Music player which works even in background.
-![Screenshot_1658935295](https://user-images.githubusercontent.com/104484293/181286602-fd598226-8a1d-4b87-9510-640d5f0d9177.png)
-![Screenshot_1658935303](https://user-images.githubusercontent.com/104484293/181286731-b40fe9b7-9911-4e02-ab15-ff69dfc1bd59.png)
-![Screenshot_1658935309](https://user-images.githubusercontent.com/104484293/181286769-7119eb52-8caa-44ab-8e72-7c2626137665.png)
-![Screenshot_1658935314](https://user-images.githubusercontent.com/104484293/181286792-3928512e-e4c5-4a5d-b3ae-5415cce0440a.png)
-![Screenshot_1658935318](https://user-images.githubusercontent.com/104484293/181286824-d90df50c-6a32-412b-bb1b-2386aca5dc78.png)
-![Screenshot_1658935324](https://user-images.githubusercontent.com/104484293/181286861-3259a365-deea-4ddf-b263-c97b087c4654.png)
+For project demo headover to the link below:
+
+➡️ https://drive.google.com/file/d/1uLDfd62YDJ_Y0pt5cdgeT7qlfQa2ESed/view?usp=sharing
 
 
 
