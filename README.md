@@ -8,6 +8,7 @@ This project is entirely made for experimental purpose for a Music player which 
 For project demo headover to the link below:
 
 ➡️ https://drive.google.com/file/d/1uLDfd62YDJ_Y0pt5cdgeT7qlfQa2ESed/view?usp=sharing
+➡️ https://www.youtube.com/shorts/Djl-ZTY_SuE
 
 
 
