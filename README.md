@@ -12,12 +12,12 @@ For project demo headover to the link below:
 
 
 
-Some main pointes to note regarding the project.
-➡️ Comprises of three screens two of which involves the use of drawer.
-➡️ Containes a list of various artists. Each if clicked (If provided a screen) can take to the artist's albums.
+Some main points to note regarding the project.
+➡️ Comprises of three screens two of which involve using a drawer.
+➡️ Contains a list of various artists. Each if clicked (If provided a screen) can take to the artist's albums.
 ➡️ The theme is designed using the Linear gradient property in the Box decoration widget from Top left to bottom right.
-➡️ Contains a hand-made music player (Without the use directly from package). 
-➡️ The seek bar can be used to drag and drop the music directly.
+➡️ Contains a custom-made music player. 
+➡️ The seek bar can drag and drop the music directly.
 
 That's all💯
 
